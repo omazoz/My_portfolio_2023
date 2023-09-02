@@ -1,7 +1,6 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-   "homepage": "https://gitname.github.io/react-gh-pages",
 
   "private": true,
   "dependencies": {
@@ -16,8 +15,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-   "deploy": "gh-pages -d build",
+ 
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -41,7 +39,7 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
+   "devDependencies": {
     "framer-motion": "^8.4.3",
     "gh-pages": "^6.0.0",
     "react-countup": "^6.4.0",
