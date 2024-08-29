@@ -44,7 +44,7 @@ const Services = () => {
               
       </h3> 
       {/* <button className="btn btn-sm"> Visit my Linkedin</button> */}
-      <a href="assets/Resume.pdf" download className="btn py-2 px-4 text-base ">
+      <a href="https://drive.google.com/file/d/1Ve6R-RGj6L6y-8YXMGMC_SftgekFm8kJ/view?pli=1" download className="btn py-2 px-4 text-base ">
     Download  my Resume
   </a>
       </motion.div>
